@@ -1,8 +1,11 @@
-import './App.css';
+import { Canvas } from "@react-three/fiber";
 
 function App() {
   return (
-    <h1>First Step</h1>
+    <>
+      <div>Outside Canvas</div>
+      <Canvas></Canvas>
+    </>
   );
 }
 
