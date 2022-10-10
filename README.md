@@ -6,4 +6,4 @@
 
 ## Intoduction
 
-Beautiful minecraft clone written in react with using three.js
+Beautiful minecraft clone written on react.js with using three.js
